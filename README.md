@@ -1,7 +1,7 @@
 # 📊 Klasifikasi Dataset Citrus (UTS - Naive Bayes)
 
 ## Deskripsi
-Proyek ini merupakan bagian dari Ujian Tengah Semester (UTS) yang bertujuan membangun model klasifikasi menggunakan algoritma **Naive Bayes** untuk menentukan 
+Proyek ini merupakan bagian dari Ujian Tengah Semester (UTS) yang saya lakukan dengan bertujuan untuk membangun model klasifikasi menggunakan algoritma **Naive Bayes** untuk menentukan 
 apakah sebuah buah merupakan **jeruk (orange)** atau **anggur (grapefruit)** berdasarkan fitur-fitur numerik.
 
 Dataset yang digunakan adalah `citrus.csv`, yang memuat data karakteristik buah dan label nama buah (`orange` atau `grape`).
