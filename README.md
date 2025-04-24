@@ -1,8 +1,7 @@
 # 📊 Klasifikasi Dataset Citrus (UTS - Naive Bayes)
 
 ## Deskripsi
-Proyek ini merupakan bagian dari Ujian Tengah Semester (UTS) yang saya lakukan dengan bertujuan untuk membangun model klasifikasi menggunakan algoritma **Naive Bayes** untuk menentukan 
-apakah sebuah buah merupakan **jeruk (orange)** atau **anggur (grapefruit)** berdasarkan fitur-fitur numerik.
+Proyek ini merupakan bagian dari Ujian Tengah Semester (UTS) yang saya lakukan dengan bertujuan untuk membangun model klasifikasi menggunakan algoritma **Naive Bayes** untuk menentukan apakah sebuah buah merupakan **jeruk (orange)** atau **anggur (grapefruit)** berdasarkan fitur-fitur numerik. Dari hasil yang diperoleh, model ini mencapai akurasi sebesar 92%, yang menunjukkan tingkat prediksi yang cukup akurat dalam mengklasifikasikan jenis buah.
 
 Dataset yang digunakan adalah `citrus.csv`, yang memuat data karakteristik buah dan label nama buah (`orange` atau `grape`).
 Anda bisa mengakses dan download file tersebut melalui link ini :
